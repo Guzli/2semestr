@@ -20,6 +20,6 @@ https://drive.google.com/drive/folders/1TRSZZ2WO4dI10dJXz48RIanU4O3wpzY0?usp=sha
 
 # РАБОТА С БАШ
 ✅-[ПРАКТИЧЕСКАЯ](https://docs.google.com/document/d/1hJ3YZKQS4VTm6JuT39jealr8JwghFM8I1ZfX441EezQ/edit?tab=t.0#heading=h.dyqbv5d8lbbf)\
-✅-[ОЧИСТКА](https://docs.google.com/document/d/1rjwIn92fb9b9Za4sYQEHbKwdymcslAIq2ISGoWx7k1I/edit?tab=t.0)\
+❌-[ОЧИСТКА]()\
 ❌-[ГРАФИКИ]()\
 ✅-[СМЕНА ПАРОЛЯ](https://docs.google.com/document/d/1rKgYll25eRybkVRREBXri443TdkRZ2V6H67yg6WasSA/edit?tab=t.0)\
