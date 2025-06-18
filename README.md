@@ -35,3 +35,6 @@
 ✅-[Урок мужества](https://t.me/luberteh/6650)\
 ✅-[ посвященная празднованию Дня защитника Отечества.](https://t.me/luberteh/5949)\
 ✅-[]()\
+
+## сертификаты
+✅-[траектория буудущего 24-25](https://drive.google.com/drive/folders/1Fc3k6wxpRzoBx0ANe0N7GGm7V6HuVs5Q?usp=drive_link)\
