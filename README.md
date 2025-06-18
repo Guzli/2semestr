@@ -3,7 +3,7 @@ https://drive.google.com/drive/folders/1TRSZZ2WO4dI10dJXz48RIanU4O3wpzY0?usp=sha
 
 # РАБОТА С ПАЙТОН
 
-##✅-[условия на примере цены товара](https://colab.research.google.com/drive/1WNwT9bGfW-FqdOiC7pQDgyhSKwDpWnP_#scrollTo=HfCvfDwlvA88&line=1&uniqifier=1)\
+✅-[##условия на примере цены товара](https://colab.research.google.com/drive/1WNwT9bGfW-FqdOiC7pQDgyhSKwDpWnP_#scrollTo=HfCvfDwlvA88&line=1&uniqifier=1)\
 ✅-[задание и блок схемы](https://colab.research.google.com/drive/1WNwT9bGfW-FqdOiC7pQDgyhSKwDpWnP_#scrollTo=_)\
 ✅-[код](https://colab.research.google.com/drive/1WNwT9bGfW-FqdOiC7pQDgyhSKwDpWnP_#scrollTo=_)\
 ✅-[пароль](https://colab.research.google.com/drive/1WNwT9bGfW-FqdOiC7pQDgyhSKwDpWnP_#scrollTo=eAYwoUeVd39V&line=1&uniqifier=1)\
