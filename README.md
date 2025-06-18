@@ -26,3 +26,12 @@
 ❌-[ГРАФИКИ]()\
 ✅-[СМЕНА ПАРОЛЯ](https://docs.google.com/document/d/1rKgYll25eRybkVRREBXri443TdkRZ2V6H67yg6WasSA/edit?tab=t.0)\
 ✅-[КОНТРОЛЬНАЯ](https://docs.google.com/document/d/11o-FacHRvhjqs5DDVsb_tNKt0exeO1k_8CdQIW8xit8/edit?tab=t.0)\
+
+
+# участие в жизни техникума
+
+## поставить реакцию на запись 
+✅-[Positive Hack Days Fest](https://t.me/luberteh/6969)\
+✅-[Урок мужества](https://t.me/luberteh/6650)\
+✅-[ посвященная празднованию Дня защитника Отечества.](https://t.me/luberteh/5949)\
+✅-[]()\
