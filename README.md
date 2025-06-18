@@ -8,16 +8,16 @@ https://drive.google.com/drive/folders/1TRSZZ2WO4dI10dJXz48RIanU4O3wpzY0?usp=sha
 ✅-[код](https://colab.research.google.com/drive/1WNwT9bGfW-FqdOiC7pQDgyhSKwDpWnP_#scrollTo=_)\
 ## ЯКласс
 ❌ название и практическая и номер задания
+
 ❌ скрин всех работ
-## пароль
+## Пароль
 ✅-[задание и блок схемы](https://colab.research.google.com/drive/1WNwT9bGfW-FqdOiC7pQDgyhSKwDpWnP_#scrollTo=PmN3QhSvksE8&line=2&uniqifier=1)\
 ✅-[код пароля класса](https://colab.research.google.com/drive/1WNwT9bGfW-FqdOiC7pQDgyhSKwDpWnP_#scrollTo=_)\
 ✅-[обйявление и вызов](https://colab.research.google.com/drive/1WNwT9bGfW-FqdOiC7pQDgyhSKwDpWnP_#scrollTo=_)\
 ✅-[принцип ооп](https://colab.research.google.com/drive/1WNwT9bGfW-FqdOiC7pQDgyhSKwDpWnP_#scrollTo=_)\
-❌-[специальный метод класса]()\
-✅-[аналитика данных](https://drive.google.com/file/d/1eAmtvbrRy02rMosodRp8p3kROo2AEnyM/view?usp=sharing)\
+✅-[специальный метод класса](https://colab.research.google.com/drive/1WNwT9bGfW-FqdOiC7pQDgyhSKwDpWnP_#scrollTo=SvsVaxeCwKL6)\
+## аналитика данных
 ❌-[блок схема]()\
-❌-[сводная таблица]()\
 ❌-[сводная таблица с формулами]()\
 ✅-[3 способа загрузки](https://colab.research.google.com/drive/1WNwT9bGfW-FqdOiC7pQDgyhSKwDpWnP_#scrollTo=RAyURv3D7x67)\
 ✅-[код по созданию таблиц](https://colab.research.google.com/drive/1WNwT9bGfW-FqdOiC7pQDgyhSKwDpWnP_#scrollTo=tUYJkpnXHQ_R&line=1&uniqifier=1)\
