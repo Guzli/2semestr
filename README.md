@@ -1,3 +1,4 @@
+https://docs.google.com/document/d/1K4ljqilbB6c65thb9RPOPssxDGs9hMDjpsZgtI2Y3ZM/edit?usp=sharing
 
 # РАБОТА С ПАЙТОН
 
