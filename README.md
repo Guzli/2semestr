@@ -35,7 +35,7 @@ https://docs.google.com/document/d/1K4ljqilbB6c65thb9RPOPssxDGs9hMDjpsZgtI2Y3ZM/
 ✅-[Positive Hack Days Fest](https://t.me/luberteh/6969)\
 ✅-[Урок мужества](https://t.me/luberteh/6650)\
 ✅-[ посвященная празднованию Дня защитника Отечества.](https://t.me/luberteh/5949)\
-✅-[]()\
+✅-[gjcbnbd ltq](https://docs.google.com/document/d/1wLc6LF_d-14Tx4bEK2nIKP5RtzoItOcGUztPPDMwQjQ/edit?usp=sharing)\
 
 ## сертификаты
 ✅-[траектория буудущего 24-25](https://drive.google.com/drive/folders/1Fc3k6wxpRzoBx0ANe0N7GGm7V6HuVs5Q?usp=drive_link)\
